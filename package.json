@@ -1,0 +1,16 @@
+{
+  "name": "jest-no-start-server",
+  "version": "1.0.0",
+  "description": "Minimal testcase for https://github.com/smooth-code/jest-puppeteer/issues/229",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "^24.7.1",
+    "jest-puppeteer": "^4.1.1",
+    "puppeteer": "^1.14.0"
+  }
+}
